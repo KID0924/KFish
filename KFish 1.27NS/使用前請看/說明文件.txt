@@ -1,0 +1,16 @@
+﻿此程式是在XP環境下編寫的，若WIN7要執行
+只要按下"純瀏覽器"按鈕開起遊戲應該能正常執行
+
+若無法正常觀看設置
+請上網尋找
+MSCOMCTL.OCX
+Msstdfmt.dll
+Tabctl32.ocx
+並用命令字元註冊之
+或是使用我製作的補丁幫你解壓並註冊
+
+PS:補丁以及Fishbowl.WEB.exe
+需要微軟 Net framework 2 或是<更高版本>才能執行
+
+Net framework 2:
+http://www.azofreeware.com/2006/03/microsoft-net-framework-version-11.html
